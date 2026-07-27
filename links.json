@@ -16,7 +16,7 @@
       "id": "englishhd",
       "name": "Star Sports English 2 HD",
       "type": "iframe",
-      "iframeSrc": "http://cricket-yoddha-channel-list.vercel.app/?id=1109"
+      "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=1109"
     },
     {
       "id": "englishsd",
