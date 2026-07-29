@@ -19,6 +19,13 @@
       "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=1109"
     },
     {
+      
+      "id": "sonyliv",
+      "name": "SONY SPORTS HINDI",
+      "type": "iframe",
+      "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=524"
+    },
+    {
       "id": "englishsd",
       "name": "Star Sports English SD",
       "type": "iframe",
