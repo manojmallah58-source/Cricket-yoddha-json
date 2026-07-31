@@ -32,10 +32,10 @@
       "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=362"
     },
     {
-      "id": "ipl",
-      "name": "IPL Live Feed",
+      "id": "ALLT20",
+      "name": "ASIAN LEGENDS",
       "type": "iframe",
-      "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=362"
+      "iframeSrc": "https://cricket-yoddha.vercel.app/?url=https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_0.m3u8"
     }
   ]
 }
