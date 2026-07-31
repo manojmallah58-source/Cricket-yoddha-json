@@ -35,7 +35,7 @@
       "id": "ALLT20",
       "name": "ASIAN LEGENDS",
       "type": "iframe",
-      "iframeSrc": "https://cricket-yoddha.vercel.app/?url=https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_0.m3u8"
+      "iframeSrc": "https://cricket-yoddha.vercel.app/?url=https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
     }
   ]
 }
