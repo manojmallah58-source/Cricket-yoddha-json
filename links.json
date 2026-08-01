@@ -38,6 +38,12 @@
       "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=1108"
     },
     {
+      "id": "1",
+      "name": "1",
+      "type": "iframe",
+      "iframeSrc": "https://cricket-yoddha-channel-1.vercel.app/"
+    },
+    {
       "id": "ALLT20",
       "name": "ASIAN LEGENDS",
       "type": "iframe",
