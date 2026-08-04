@@ -43,10 +43,10 @@
       "iframeSrc": "https://cricket-yoddha-channel-1.vercel.app/"
     },
     {
-      "id": "ALLT20",
-      "name": "ASIAN LEGENDS",
+      "id": "tnpl",
+      "name": "TNPL 2026",
       "type": "iframe",
-      "iframeSrc": "https://cricket-yoddha.vercel.app/?url=https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//master.m3u8"
+      "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=1774"
     }
   ]
 }
