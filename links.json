@@ -37,16 +37,268 @@
       "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=1108"
     },
     {
-      "id": "1",
-      "name": "1",
+      "id": "cricbuzz",
+      "name": "Willow Cricbuzz",
       "type": "iframe",
-      "iframeSrc": "https://cricket-yoddha-channel-1.vercel.app/"
+      "iframeSrc": "https://crickcast-cricbuzz.pages.dev/?id=B0GKPXS5CW"
     },
     {
       "id": "tnpl",
       "name": "TNPL 2026",
       "type": "iframe",
       "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=1774"
+    },
+    {
+      "id": "9",
+      "name": "Channel 9",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "10",
+      "name": "Channel 10",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "11",
+      "name": "Channel 11",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "12",
+      "name": "Channel 12",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "13",
+      "name": "Channel 13",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "14",
+      "name": "Channel 14",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "15",
+      "name": "Channel 15",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "16",
+      "name": "Channel 16",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "17",
+      "name": "Channel 17",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "18",
+      "name": "Channel 18",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "19",
+      "name": "Channel 19",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "20",
+      "name": "Channel 20",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "21",
+      "name": "Channel 21",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "22",
+      "name": "Channel 22",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "23",
+      "name": "Channel 23",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "24",
+      "name": "Channel 24",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "25",
+      "name": "Channel 25",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "26",
+      "name": "Channel 26",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "27",
+      "name": "Channel 27",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "28",
+      "name": "Channel 28",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "29",
+      "name": "Channel 29",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "30",
+      "name": "Channel 30",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "31",
+      "name": "Channel 31",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "32",
+      "name": "Channel 32",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "33",
+      "name": "Channel 33",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "34",
+      "name": "Channel 34",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "35",
+      "name": "Channel 35",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "36",
+      "name": "Channel 36",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "37",
+      "name": "Channel 37",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "38",
+      "name": "Channel 38",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "39",
+      "name": "Channel 39",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "40",
+      "name": "Channel 40",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "41",
+      "name": "Channel 41",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "42",
+      "name": "Channel 42",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "43",
+      "name": "Channel 43",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "44",
+      "name": "Channel 44",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "45",
+      "name": "Channel 45",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "46",
+      "name": "Channel 46",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "47",
+      "name": "Channel 47",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "48",
+      "name": "Channel 48",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "49",
+      "name": "Channel 49",
+      "type": "iframe",
+      "iframeSrc": ""
+    },
+    {
+      "id": "50",
+      "name": "Channel 50",
+      "type": "iframe",
+      "iframeSrc": ""
     }
   ]
 }
