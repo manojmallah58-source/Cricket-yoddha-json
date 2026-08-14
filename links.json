@@ -52,13 +52,13 @@
       "id": "hindi",
       "name": "sony sports Hindi",
       "type": "iframe",
-      "iframeSrc": "http://sonucdn-v1.pages.dev/star?id=STEN1"
+      "iframeSrc": "https://sonucdn-v1.pages.dev/star?id=STEN1"
     },
     {
       "id": "english",
       "name": "sony sports 1",
       "type": "iframe",
-      "iframeSrc": "http://sonucdn-v1.pages.dev/star?id=STEN3"
+      "iframeSrc": "https://sonucdn-v1.pages.dev/star?id=STEN3"
     },
     {
       "id": "11",
