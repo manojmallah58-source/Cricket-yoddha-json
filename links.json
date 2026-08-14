@@ -49,16 +49,16 @@
       "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app/?id=1774"
     },
     {
-      "id": "9",
-      "name": "Channel 9",
+      "id": "hindi",
+      "name": "sony sports Hindi",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "http://sonucdn-v1.pages.dev/star?id=STEN1"
     },
     {
-      "id": "10",
-      "name": "Channel 10",
+      "id": "english",
+      "name": "sony sports 1",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "http://sonucdn-v1.pages.dev/star?id=STEN3"
     },
     {
       "id": "11",
