@@ -79,10 +79,10 @@
       "iframeSrc": "https://allrounder-live12.pages.dev/hotstar"
     },
     {
-      "id": "14",
-      "name": "Channel 14",
+      "id": "tamil",
+      "name": "sony sports tamil",
       "type": "iframe",
-      "iframeSrc": ""
+      "iframeSrc": "https://sonucdn-v1.pages.dev/star?id=STENT"
     },
     {
       "id": "15",
