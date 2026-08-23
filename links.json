@@ -22,7 +22,7 @@
       "id": "sonyliv",
       "name": "SONY SPORTS HINDI",
       "type": "iframe",
-      "iframeSrc": "https://twitcasting.tv/c:starkind/embeddedplayer/live?auto_play=true&default_mute=true"
+      "iframeSrc": "https://cricket-yoddha-channel-10.vercel.app/"
     },
     {
       "id": "englishsd",
@@ -58,13 +58,13 @@
       "id": "english",
       "name": "sony sports 1",
       "type": "iframe",
-      "iframeSrc": "https://cricket-yoddha-channel-9.vercel.app/"
+      "iframeSrc": "https://crickcast-cricbuzz.pages.dev/?id=B0H9RCZ1GL"
     },
     {
       "id": "willow",
       "name": "Willow Cricbuzz",
       "type": "iframe",
-      "iframeSrc": "https://crickcast-cricbuzz.pages.dev/?id=B0HCX5GP83"
+      "iframeSrc": "https://crickcast-cricbuzz.pages.dev/?id=B0H9RCZ1GL"
     },
     {
       "id": "upt20",
