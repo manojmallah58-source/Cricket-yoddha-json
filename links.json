@@ -91,9 +91,9 @@
       "iframeSrc": "https://sonucdn-v1.pages.dev/star?id=STENTU"
     },
     {
-      "id": "16",
+      "id": "1",
       "name": "Channel 16",
-      "type": "iframe",
+      "type": "https://cricket-yoddha-channel-8.vercel.app/",
       "iframeSrc": ""
     },
     {
