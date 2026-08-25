@@ -52,13 +52,13 @@
       "id": "hindi",
       "name": "sony sports Hindi",
       "type": "iframe",
-      "iframeSrc": "https://cricket-yoddha-channel-10.vercel.app/"
+      "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app?id=STEN3"
     },
     {
       "id": "english",
       "name": "sony sports 1",
       "type": "iframe",
-      "iframeSrc": "https://crickcast-cricbuzz.pages.dev/?id=B0H9RCZ1GL"
+      "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app?id=STEN1"
     },
     {
       "id": "willow",
