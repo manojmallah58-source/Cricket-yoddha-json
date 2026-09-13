@@ -22,7 +22,7 @@
       "id": "sonyliv",
       "name": "SONY SPORTS HINDI",
       "type": "iframe",
-      "iframeSrc": "http://crickcast-test.pages.dev/hindi.html"
+      "iframeSrc": "https://crickcast-test.pages.dev/hindi.html"
     },
     {
       "id": "eng",
