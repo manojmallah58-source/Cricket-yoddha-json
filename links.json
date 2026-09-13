@@ -22,7 +22,7 @@
       "id": "sonyliv",
       "name": "SONY SPORTS HINDI",
       "type": "iframe",
-      "iframeSrc": "https://cricket-yoddha-channel-list.vercel.app?id=STEN3"
+      "iframeSrc": "http://crickcast-test.pages.dev/hindi.html"
     },
     {
       "id": "eng",
