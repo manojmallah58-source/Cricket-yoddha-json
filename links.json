@@ -28,7 +28,7 @@
       "id": "eng",
       "name": "Star Sports English SD",
       "type": "iframe",
-      "iframeSrc": "https://crickcast-cricbuzz.pages.dev/?id=B0HG1ZPRX2"
+      "iframeSrc": "https://crickcast-test.pages.dev/eng.html"
     },
     {
       "id": "hin",
